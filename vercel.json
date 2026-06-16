@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/send-gmail.js": {
+      "maxDuration": 60
+    }
+  }
+}
